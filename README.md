@@ -16,6 +16,8 @@
 <p align="left">I keep things lightweight, responsive and accessible, using modern frontend frameworks and utilities.</p>
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" alt="react logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="40" alt="css3 logo" />
@@ -68,8 +70,6 @@
 <p align="left">I'm excited to deepen my skills in modern frontend frameworks, cloud platforms, and infrastructure automation.</p>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" alt="react logo" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" alt="aws logo" />
