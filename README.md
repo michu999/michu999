@@ -76,8 +76,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform.svg" height="40" alt="aws logo" />
-  <img width="12" />
 </div>
 
 ###
