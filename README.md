@@ -3,10 +3,9 @@
 <h1 align="center">Hello World!! My name is Michael and I'm a Software Developer</h1>
 
 <p align="center">
-  I’m a Software Developer with a strong passion for all things Tech related.<br>
-  I enjoy building useful web apps with Python and Django, especially for real-world problems.<br>
-  Currently learning more about DevOps, Docker, and cloud technologies like Azure.<br>
-  On the frontend side, I keep it clean and simple with HTML, CSS, Tailwind and a bit of JavaScript.
+  I’m a Software Developer / Freelancer<br>
+  I enjoy building web apps and integrations with Python and Django / DRF<br>
+  On the frontend side, I keep it clean and simple with React, Tailwind CSS, and shadcn<br>
 </p>
 
 ###
