@@ -1,19 +1,17 @@
 <br clear="both">
 
-<h1 align="center">Hello World!! My name is Michael and I'm a Software Developer 👋</h1>
+<h1 align="center">Hello World!! My name is Michael and I'm a Software Developer</h1>
 
 <p align="center">
-  🎓 I’m a Software Developer with a strong passion for all things Tech related.<br>
-  🛠️ I enjoy building useful web apps with Python and Django, especially for real-world problems.<br>
-  🚀 Currently learning more about DevOps, Docker, and cloud technologies like Azure.<br>
-  ✨ On the frontend side, I keep it clean and simple with HTML, CSS, Tailwind and a bit of JavaScript.
+  I’m a Software Developer with a strong passion for all things Tech related.<br>
+  I enjoy building useful web apps with Python and Django, especially for real-world problems.<br>
+  Currently learning more about DevOps, Docker, and cloud technologies like Azure.<br>
+  On the frontend side, I keep it clean and simple with HTML, CSS, Tailwind and a bit of JavaScript.
 </p>
 
 ###
 
-<h2 align="left">🖼️ Frontend stack:</h2>
-
-<p align="left">I keep things lightweight, responsive and accessible, using modern frontend frameworks and utilities.</p>
+<h2 align="left">Frontend stack:</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" alt="react logo" />
@@ -31,9 +29,7 @@
 
 ###
 
-<h2 align="left">⚙️ Backend stack:</h2>
-
-<p align="left">I love working on the backend — clean APIs, databases, and server-side logic are my playground.</p>
+<h2 align="left">Backend stack:</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo" />
@@ -47,7 +43,7 @@
 
 ###
 
-<h2 align="left">🔧 DevOps / Tools:</h2>
+<h2 align="left">DevOps / Tools:</h2>
 
 <p align="left">I work daily in a Linux environment and use Docker, Git and Bash to streamline development and deployment.</p>
 
@@ -65,9 +61,7 @@
 
 ###
 
-<h2 align="left">🚀 Future Learning:</h2>
-
-<p align="left">I'm excited to deepen my skills in modern frontend frameworks, cloud platforms, and infrastructure automation.</p>
+<h2 align="left">Future Learning:</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" height="40" alt="azure logo" />
@@ -96,9 +90,7 @@
 
 ###
 
-<h1 align="left">📫 Contact me</h1>
-
-<p align="left">Let’s connect and build something awesome together!</p>
+<h1 align="left">Contact me</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/micha%C5%82-goluch-a18a8a243/" target="_blank">
